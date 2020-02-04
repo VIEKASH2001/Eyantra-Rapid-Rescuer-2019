@@ -19,8 +19,7 @@
 '''
 
 
-# Team ID:		[466]
-# Author List:		[Sathya Prakash,Akesh,Loahit,Pramoth]
+
 # Filename:		task_1a.py
 # Functions:		readImage, solveMaze
 # 					[ Comma separated list of functions in this file ]
