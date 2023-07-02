@@ -1,4 +1,6 @@
-# Eyantra-Rapid-Rescuer-2019
+<a>
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=50&duration=2000&pause=500&multiline=true&width=1500&height=80&lines=Eyantra+Rapid-Rescuer+2019" alt="Typing SVG" />
+</a>
 
 This repository contains the task 1 programs that were developed by our team for the Eyantra competition, conducted by IIT Bombay in 2019. Our team participated in this competition and we developed several programs to solve the challenges posed by the competition.
 
